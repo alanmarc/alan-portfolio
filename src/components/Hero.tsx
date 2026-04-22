@@ -108,7 +108,7 @@ export default function Hero({ onCTA }: HeroProps) {
         style={{ marginTop: "5rem", display: "flex", gap: "3rem", flexWrap: "wrap", borderTop: "1px solid var(--color-border)", paddingTop: "2rem" }}
       >
         {[
-          { value: "4+", label: "Años de experiencia" },
+          { value: "5+", label: "Años de experiencia" },
           { value: "2", label: "Empresas lideradas" },
           { value: "∞", label: "Commits mergeados" },
           { value: "0", label: "Deuda técnica ignorada" },
